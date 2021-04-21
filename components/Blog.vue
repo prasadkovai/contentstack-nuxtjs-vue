@@ -31,7 +31,7 @@ export default {
   props: ["entry"],
   data() {
     return {
-      blogs: this.entry[0].modular_blocks,
+      //blogs: this.entry[0].modular_blocks,
     };
   },
 };

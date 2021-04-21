@@ -28,6 +28,9 @@
           <li v-for="head in header.menu" :key="head.title" class="page-scroll">
             <a :href="'/'">{{ head.title }}</a>
           </li>
+           <li v-for="head in header.search" :key="head.search">
+            <a :href="'/'">{{ head.search }}</a>
+          </li>
         </ul>
       </div>
       <!-- /.navbar-collapse -->

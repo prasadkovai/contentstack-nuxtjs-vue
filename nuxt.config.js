@@ -7,7 +7,7 @@ export default {
   env: {
     api_key: "blt2bdd9f3cbe6f727d",
     delivery_token: "csaff66d1afa78ccdaa984da03",
-    environment: "vuestoefront",
+    environment: "vuestorefront",
   },
   head: {
     title: "Contentstack-Nuxtjs-Sample-App",
